@@ -198,5 +198,8 @@ if __name__ == "__main__":
  - NOTA: como en la matemática no es posible elevar un numero negativo a otro negativo, no me fue posible hacer de un rango [-1,1]. (supuse que era por eso)
  - lo hice de rango [0,1] y si funciono, pero este punto me genera dudas al igual que todos :)
 
+
+ - NOTA 2:  Al parecer me corrio el codigo, PERO, (siempre hay un Pero) no se si los resultdos sean correctos, asi que despues de varias horas, me rindo. Espero que este bien
+
    
 
